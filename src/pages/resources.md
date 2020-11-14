@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Resources
-permalink: /resources
+permalink: ""
 ---
 # Tracts
 
