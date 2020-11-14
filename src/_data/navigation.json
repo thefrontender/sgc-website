@@ -10,13 +10,13 @@
       "url": "/about"
     },
     {
+      "text": "Resources",
+      "url": "/resources"
+    },
+    {
       "text": "Contact Us",
       "url": "/contact",
       "external": false
-    },
-    {
-      "text": "Resources",
-      "url": "/resources"
     }
   ]
 }
