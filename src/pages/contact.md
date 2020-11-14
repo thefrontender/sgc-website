@@ -1,9 +1,24 @@
 ---
-title: 'Contact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+layout: layouts/contact.njk
+title: Contact
+permalink: /contact/index.html
 ---
+# Visit us
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
+28 Belo Street\
+Samabula, Suva, Fiji
 
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+# Write to us
+
+samabula.gospel.chapel@gmail.com
+
+P.O. Box 3936,\
+Samabula, Suva, Fiji
+
+# Call us
+
+[3383571](tel:+6793383571) / [9943287](tel:+6799943287)
+
+# Follow us
+
+https://www.facebook.com/samabulagospelchapel
