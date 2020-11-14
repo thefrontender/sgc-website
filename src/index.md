@@ -1,12 +1,16 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+title: Samabula Gospel Chapel
+metaDesc: ""
+postsHeading: Latest news and updates
+archiveButtonText: See all updates
+socialImage: ""
 ---
+We are a group of Christians from various nationalities and walks of life. Our assembly’s unique character comes from its members, the Lord’s people who come together at Samabula Gospel Chapel.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+Our Sunday fellowship meets at *28 Belo Street in Samabula* for:
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+* Sunday school from 9:00 to 9:45am
+* Sunday worship from 10:00 to 11:30am
+
+We offer a safe and welcoming nursery environment for babies and toddlers during services, and at the majority of other church functions.
