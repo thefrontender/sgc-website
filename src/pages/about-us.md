@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About us
-permalink: ""
+permalink: /about/index.html
 ---
 # Who we are
 
