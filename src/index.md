@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Samabula Gospel Chapel
-metaTitle: October Calendar
+metaTitle: ""
 metaDesc: ""
 postsHeading: Latest news and updates
 archiveButtonText: October Calendar
-socialImage: /images/sgc_october_2021_calendar.jpg
+socialImage: ""
 ---
 We are a group of Christians from various nationalities and walks of life. Our assembly’s unique character comes from its members, the Lord’s people who come together at Samabula Gospel Chapel.
 
