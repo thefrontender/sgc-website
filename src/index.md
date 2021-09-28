@@ -4,7 +4,7 @@ title: Samabula Gospel Chapel
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest news and updates
-archiveButtonText: see all updates
+archiveButtonText: Samabula Gospel Chapel
 socialImage: ""
 ---
 We are a group of Christians from various nationalities and walks of life. Our assembly’s unique character comes from its members, the Lord’s people who come together at Samabula Gospel Chapel.
