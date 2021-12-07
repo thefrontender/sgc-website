@@ -1,8 +1,0 @@
----
-title: December Calender
-socialImage: ""
-date: 2021-12-06T23:16:00.012Z
----
-Activities for December
-
-![](/images/sgc-december-calender-2021.png)
